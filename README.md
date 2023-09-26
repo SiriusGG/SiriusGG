@@ -4,4 +4,4 @@ I’m a Java and Haxe developer and this is the space where I host software whic
 
 My non-gaming related stuff goes somewhere else.
 
-You can reach me via [suport@siriusgg.com](mailto:suport@siriusgg.com) for support about specific software or via [contact@siriusgg.com](mailto:contact@siriusgg.com) for anything else.
+You can reach me via [support@siriusgg.com](mailto:support@siriusgg.com) for support about specific software or via [contact@siriusgg.com](mailto:contact@siriusgg.com) for anything else.
